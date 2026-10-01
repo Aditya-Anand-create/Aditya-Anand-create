@@ -33,3 +33,4 @@ I'm in the MCA program at Banaras Hindu University (batch of 2027) and looking f
 ## Contact
 - GitHub: [@Aditya-Anand-create](https://github.com/Aditya-Anand-create)
 - LinkedIn: [aditya-anand](https://www.linkedin.com/in/aditya-anand-1a6877365)
+- Email: adityaanand1813@gmail.com
