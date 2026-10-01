@@ -7,8 +7,8 @@
 </p>
 
 ## About
-I build full-stack applications and enjoy turning ideas into working products: REST APIs, React interfaces and databases.
-I'm in the MCA program at Banaras Hindu University (batch of 2027) and looking for software engineering internships where I can ship real features.
+I build full-stack websites: the part you see (React), the part that runs behind it (Node.js / Python) and the database that stores the data.
+I'm doing my MCA at Banaras Hindu University (batch of 2027) and I'm looking for a software engineering internship where I can build real features.
 
 ## Tech stack
 <p>
@@ -16,10 +16,13 @@ I'm in the MCA program at Banaras Hindu University (batch of 2027) and looking f
 </p>
 
 ## Featured projects
-| Project | What it is | Stack |
-|---|---|---|
-| [**AI Chatbot**](https://github.com/Aditya-Anand-create/ai-chatbot) | ChatGPT-style assistant with token streaming (SSE), saved chat history and Markdown replies. Provider-agnostic LLM layer that works with free APIs. | React, Node.js, Express, MongoDB |
-| [**Campus Placement Portal**](https://github.com/Aditya-Anand-create/placement_portal) | Role-based recruitment platform: eligibility checks, documents, application tracking | Python (Flask), SQLite, HTML/CSS |
+### AI Chatbot - [code](https://github.com/Aditya-Anand-create/ai-chatbot)
+A ChatGPT-like website. You type a question and the answer appears live, word by word. Your old chats are saved, and code and formatting in answers show properly.
+**Built with:** React (the page you see), Node.js + Express (the server), MongoDB (saves chats).
+
+### Campus Placement Portal - [code](https://github.com/Aditya-Anand-create/placement_portal)
+A college placement website. Students sign up, upload a resume, check if they are eligible for a company, apply, and track their application status. An admin posts job openings and updates each student's status.
+**Built with:** Python (Flask), SQLite, HTML/CSS.
 
 ## GitHub stats
 <p>
